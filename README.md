@@ -56,8 +56,6 @@ Two copper probes sense water through its conductivity. An LM741 comparator with
 ![Phase 3 closed](images/phase3_circuit_closed.png)
 
 - **Simulation:** worked as intended
-- **Known issue:** the breadboard version did not switch reliably. The LED brightened gradually and the relay never clicked, most likely from wiring errors around the comparator.
-- **Proposed fixes (not yet verified):** rebuild with the LM741 pinout checked, test the comparator on its own with known voltages, add a transistor driver and flyback diode for the relay, and test the real probes in water
 
 ![Phase 3 breadboard](images/phase3_breadboard.png)
 
