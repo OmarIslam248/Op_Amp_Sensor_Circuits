@@ -67,7 +67,6 @@ Two copper probes sense water through its conductivity. An LM741 comparator with
 
 ## Project Structure
 
-- `multisim/` → simulation files
 - `images/` → diagrams, plots, and photos used in this README
 - `calculations/` → hand calculations
 - `docs/` → full lab report PDF
