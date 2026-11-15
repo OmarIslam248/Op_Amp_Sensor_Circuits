@@ -55,7 +55,6 @@ Two copper probes sense water through its conductivity. An LM741 comparator with
 ![Phase 3 open](images/phase3_circuit_open.png)
 ![Phase 3 closed](images/phase3_circuit_closed.png)
 
-- **Simulation:** worked as intended
 
 ![Phase 3 breadboard](images/phase3_breadboard.png)
 
