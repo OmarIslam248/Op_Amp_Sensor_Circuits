@@ -1,6 +1,6 @@
 # Op-Amp Sensor Circuits (Multisim / Breadboard)
 
-Three sensor-based monitoring and control circuits designed, simulated in **Multisim**, and built on a breadboard. Each one uses a sensor signal to switch an output device (alarm or halogen lamp) through an LM741 op-amp, a transistor, and a 12 V relay. Built as a lab project at Toronto Metropolitan University.
+Three sensor-based monitoring and control circuits designed, simulated in **Multisim**, and built on a breadboard. Each one uses a sensor signal to switch an output device (alarm or halogen lamp) through an LM741 op-amp, a transistor, and a 12 V relay. Built as a lab project at Ontario Tech University.
 
 ## What's inside
 
